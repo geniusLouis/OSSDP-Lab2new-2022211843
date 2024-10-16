@@ -76,4 +76,4 @@ public class L2022211843_4_Test {
         Assert.assertEquals(500000000, solution.maximumGap(nums));  // 输出 500000000 (最大差值)
     }
 }
-
+/描述非常的清晰1
